@@ -1,0 +1,3 @@
+Lí do: Vì file source dung lượng cao nên nhóm em không thể up lên git Fork từ git của thầy, nên nhóm 6 tụi em xin phép thầy được gửi link ở đây ạ, nhóm em xin cảm ơn.
+
+https://github.com/lchbnh0511/JS_Nhom6
